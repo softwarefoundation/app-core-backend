@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.devchampions</groupId>
-	<artifactId>backend-app</artifactId>
+	<artifactId>app-core-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend-app</name>
+	<name>app-core-backend</name>
 	<description>APP Core Backend</description>
 	<properties>
 		<java.version>23</java.version>
