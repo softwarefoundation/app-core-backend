@@ -1,4 +1,4 @@
-package br.com.devchampions.backendapp.security.login.controller;
+package br.com.devchampions.backendapp.controller;
 
 import br.com.devchampions.backendapp.security.login.service.AuthenticationService;
 import lombok.extern.slf4j.Slf4j;
