@@ -20,8 +20,8 @@ public class SpringDocOpenApiConfig {
 
 
     private Info info() {
-        return new Info().title("REST API - Backend APP")
-                .description("REST API - Backend APP")
+        return new Info().title("APP Core Backend")
+                .description("APP Core Backend")
                 .version("v1.0.0")
                 .license(license())
                 .contact(contact());
